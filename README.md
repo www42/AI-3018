@@ -18,6 +18,7 @@
 
 - Learning Path 1️: [Copilot Foundations][LP1]
 
+<br>
 
 ## Labs
 
@@ -52,6 +53,9 @@
 [Repo](https://github.com/MicrosoftLearning/mslearn-ai-studio)
 [HTML](https://microsoftlearning.github.io/mslearn-ai-studio/)
 -->
+
+<br>
+
 
 ## Certification
 
