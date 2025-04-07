@@ -37,7 +37,6 @@
 
 [Lab 3 Create a generative AI app that uses your own data](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html) (from *Develop generative AI solutions in Azure* exercises)
 
-<!--
 - Work Smarter with AI exercises
 [Repo](https://github.com/MicrosoftLearning/mslearn-copilot)
 [HTML](https://microsoftlearning.github.io/mslearn-copilot/)
@@ -53,7 +52,6 @@
 - Develop generative AI solutions in Azure exercises
 [Repo](https://github.com/MicrosoftLearning/mslearn-ai-studio)
 [HTML](https://microsoftlearning.github.io/mslearn-ai-studio/)
--->
 
 <br>
 
