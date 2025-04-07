@@ -30,14 +30,14 @@
 
 <!--[Go Deploy](https://lms.godeploy.it) -->
 
-<!--  
+ 
 [Lab 1 Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-copilot/Instructions/Labs/01a-m365-copilot.html) (from *Work Smarter with AI* exercises)
 
 [Lab 2 Create an agent with Copilot Studio](https://microsoftlearning.github.io/mslearn-copilotstudio/Instructions/Labs/01-create-copilot.html) (from *Copilot Studio* exercises)
 
 [Lab 3 Create a generative AI app that uses your own data](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html) (from *Develop generative AI solutions in Azure* exercises)
 
-
+<!-->
 - Work Smarter with AI exercises
 [Repo](https://github.com/MicrosoftLearning/mslearn-copilot)
 [HTML](https://microsoftlearning.github.io/mslearn-copilot/)
